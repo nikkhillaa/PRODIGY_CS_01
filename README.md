@@ -16,6 +16,15 @@ User-friendly command-line interface.
 ## Requirements
 Python 3.x
 
+## How to Use the Program:
+
+Run the program.
+Choose whether you want to encrypt or decrypt a message by entering 'E' or 'D'.
+Input the message you want to encrypt or decrypt.
+Enter the shift value (a positive integer).
+The program will display the encrypted or decrypted message.
+You can choose to perform another operation or exit the program.
+
 
 
   
